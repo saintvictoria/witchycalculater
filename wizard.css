@@ -1,0 +1,9 @@
+
+body {
+  width: 300px;
+  height: 500px;
+  padding: 50px;
+  border: 2px solid black;
+  border-radius: 20px;
+  font-family: 'Creepster' sans-serif;
+}
